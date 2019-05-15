@@ -1,2 +1,4 @@
 # Traffic-intersection-modeling
 The traffic control using traffic light in the intersection becomes complex since the huge growth of the vehicular in the crowded city. Traffic jam couldn’t be avoided since the capacity of the road is less than the amount of the existing car in the road. Queue on the intersection couldn’t be avoided in the peak hours. This kind of conventional traffic control couldn’t help the problem of traffic jam in the intersection especially in the metropolitan city at peak hours. With queue theory approach, we can optimize the traffic control. But the M/M/1 model of queue system could not satisfy the intersection model with more than one road line. So we introduce the M/M/m model to overcome the problem.
+
+The full technical report can be accessed [here](.//final%20report%20irvanda.pdf).
